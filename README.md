@@ -4,7 +4,7 @@
  <title>Git Assignment</title>
 </head>
 <body>
- <h1>Hello Git, please be kind today.</h1>
+ <h1>GitHub Assignment.</h1>
  <p>My name is Piyush Malthonia.</p>
  <p>I am learning Git and GitHub.</p>
  <h2>Today I will practice:</h2>

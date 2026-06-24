@@ -4,7 +4,7 @@
  <title>Git Assignment</title>
 </head>
 <body>
- <h1>GitHub Assignment.</h1>
+ <h1>Hello Git, please be kind today.</h1>
  <p>My name is Piyush Malthonia.</p>
  <p>I am learning Git and GitHub.</p>
  <h2>Today I will practice:</h2>
@@ -14,9 +14,8 @@
  <li>git add</li>
  <li>git commit</li>
  <li>git push</li>
+ <li>git code</li>
  </ul>
  <p>Commit is local. Push is online.</p>
- <p>This is my second update. Git is slowly becoming my frien
-d.</p>
 </body>
 </html>
